@@ -2,7 +2,7 @@ venv/
 .ipynb_checkpoints/
 
 data/
-notebooks/
+
 
 __pycache__/
 .env
